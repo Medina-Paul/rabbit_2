@@ -1,0 +1,9 @@
+logs
+*.logs
+frontend/rabbit/node_modules/
+backend/node_modules/
+
+frontend/rabbit/.env
+backend/.env
+
+.DS_Store
